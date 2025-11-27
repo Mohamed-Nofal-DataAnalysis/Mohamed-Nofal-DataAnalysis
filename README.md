@@ -36,13 +36,13 @@ SQL Server Data Analysis Project
 Full ETL pipeline + performance dashboards.
 
 ## 📫 Connect With Me
----
+
 - [Linkedin](https://www.linkedin.com/in/mohamed-nofal-23688b361/)
 - [GitHub](https://github.com/Mohamed-Nofal-DataAnalysis)
 - [Maven ](https://mavenshowcase.com/profile/f841a320-50b1-7033-bed5-f22c89fecf29)
 - Email: monofal95@gmail.com
 
 ## ⭐ Fun Fact
----
+
 
 I believe: “Data is not just numbers — it’s a story waiting to be told.”

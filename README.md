@@ -3,11 +3,11 @@
 Data Analyst | Power BI Developer | Python & SQL Enthusiast
 
 ## 🚀 About Me
----
+
 I am a Computer Science Graduate (2024) and a passionate Data Analyst skilled in transforming raw data into actionable insights that drive business decisions. I specialize in Power BI, SQL, Python, and Excel, with strong experience in building interactive dashboards, data modeling, and developing end-to-end analytics solutions. I enjoy exploring data, uncovering trends, and presenting insights through clean, impactful visualizations. My goal is to help organizations make smarter decisions using data.
 
 ## 🛠️ Skills
----
+
 ## 📊 Data Analysis
 
 Technologies: Excel, SQL, Python (Pandas, NumPy)

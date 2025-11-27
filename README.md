@@ -26,7 +26,7 @@ SQL Server
 
 ## 📂 Featured Projects
 
-Enterprise Sales Intelligence Dashboard (Power BI)
+-Enterprise Sales Intelligence Dashboard (Power BI)
 Complex BI project with +70 DAX measures, RLS, and advanced time intelligence.
 
 Web Scraping + Data Analytics (Python)

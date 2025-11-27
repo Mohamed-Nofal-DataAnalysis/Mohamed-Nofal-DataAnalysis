@@ -26,13 +26,13 @@ SQL Server
 
 ## 📂 Featured Projects
 
--Enterprise Sales Intelligence Dashboard (Power BI)
+- Enterprise Sales Intelligence Dashboard (Power BI)
 Complex BI project with +70 DAX measures, RLS, and advanced time intelligence.
 
-Web Scraping + Data Analytics (Python)
+- Web Scraping + Data Analytics (Python)
 Automated scraping pipeline + data cleaning + visualization.
 
-SQL Server Data Analysis Project
+- SQL Server Data Analysis Project
 Full ETL pipeline + performance dashboards.
 
 ## 📫 Connect With Me

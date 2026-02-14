@@ -16,13 +16,13 @@ Skills: Data cleaning, preprocessing, EDA, statistical analysis, reporting
 
 ## 📈 Data Visualization
 
-Tools: Power BI, Tableau, Matplotlib
+Tools: Power BI, Tableau, Matplotlib,  Figma
 
 Skills: Dashboard design, KPI tracking, storytelling with data
 
 ## 🗃️ Databases
 
-SQL Server
+SQL Server, SSIS, SSRS, Data Warehousing
 
 ## 📂 Featured Projects
 

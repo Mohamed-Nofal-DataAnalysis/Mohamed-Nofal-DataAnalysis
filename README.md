@@ -3,8 +3,7 @@
 Data Analyst | Power BI Developer | Python & SQL Enthusiast
 
 ## 🚀 About Me
-Data & Business Analyst & Mentor
-Specialized in turning complex datasets into actionable insights to drive business decisions. Proficient in Power BI, Tableau, SQL, Python, Excel, and Statistics. Skilled in KPI identification, trend analysis, and building interactive dashboards. Experienced Mentor guiding teams to leverage data effectively and foster data-driven decision-making.
+Data & Business Analyst | Mentor Results-driven professional specialized in analyzing complex datasets and delivering actionable business insights to support strategic decision-making. Proficient in Power BI, Tableau, SQL, Python, Excel, and Statistics, with expertise in KPI identification, trend analysis, process optimization, and building interactive dashboards. Experienced Mentor, training and guiding students to develop analytical skills, leverage data effectively.
 
 ## 🛠️ Skills
 

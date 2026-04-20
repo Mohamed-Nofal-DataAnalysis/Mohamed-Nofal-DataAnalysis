@@ -1,4 +1,4 @@
-# 🧑‍💻 Hi there, I'm Mohamed Nofal!
+# 🧑‍💻 Hi there, I'm Mohamed Nofal
 
 Data Analyst | Power BI Developer | Python & SQL Enthusiast
 

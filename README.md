@@ -1,47 +1,18 @@
-# 🧑‍💻 Hi there, I'm Mohamed Nofal
-
-Data Analyst | Power BI Developer | Python & SQL Enthusiast
-
-## 🚀 About Me
-Data & Business Analyst | Mentor Results-driven professional specialized in analyzing complex datasets and delivering actionable business insights to support strategic decision-making. Proficient in Power BI, Tableau, SQL, Python, Excel, and Statistics, with expertise in KPI identification, trend analysis, process optimization, and building interactive dashboards. Experienced Mentor, training and guiding students to develop analytical skills, leverage data effectively.
-
-## 🛠️ Skills
-
-## 📊 Data Analysis
-
-Technologies: Excel, SQL, Python (Pandas, NumPy)
-
-Skills: Data cleaning, preprocessing, EDA, statistical analysis, reporting
-
-## 📈 Data Visualization
-
-Tools: Power BI, Tableau, Matplotlib,  Figma
-
-Skills: Dashboard design, KPI tracking, storytelling with data
-
-## 🗃️ Databases
-
-SQL Server, SSIS, SSRS, Data Warehousing
-
-## 📂 Featured Projects
-
-- Enterprise Sales Intelligence Dashboard (Power BI)
-Complex BI project with +70 DAX measures, RLS, and advanced time intelligence.
-
-- Web Scraping + Data Analytics (Python)
-Automated scraping pipeline + data cleaning + visualization.
-
-- SQL Server Data Analysis Project
-Full ETL pipeline + performance dashboards.
-
-## 📫 Connect With Me
-
-- [Linkedin](https://www.linkedin.com/in/mohamed-nofal-23688b361/)
-- [GitHub](https://github.com/Mohamed-Nofal-DataAnalysis)
-- [Maven ](https://mavenshowcase.com/profile/f841a320-50b1-7033-bed5-f22c89fecf29)
-- Email: monofal95@gmail.com
-
-## ⭐ Fun Fact
+# 💫 About Me:
+- 🔭 I’m currently working on Enterprise BI solutions, star-schema data models, and automated reporting pipelines at Drive Finance<br>- 👯 I’m looking to collaborate on Open-source data analytics projects, Power BI custom visuals, and end-to-end data pipelines<br>- 🤝 I’m looking for help with Advanced Microsoft Fabric data architectures and real-time streaming analytics<br>- 🌱 I’m currently learning Microsoft Fabric (OneLake, Lakehouse architecture) and advanced predictive analytics<br>- 💬 Ask me about Power BI, Advanced DAX, SQL (CTEs, Window Functions), Power Automate, and Python data profiling<br>- ⚡ Fun fact Won 1st place with a perfect score (100/100) at the Orange Digital Center Hackathon
 
 
-I believe: “Data is not just numbers — it’s a story waiting to be told.”
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohamed-nofal-23688b361/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:monofal955@gmail.com) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Mohamed-Nofal-DataAnalysis&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Mohamed-Nofal-DataAnalysis&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mohamed-Nofal-DataAnalysis&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Mohamed-Nofal-DataAnalysis&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
